@@ -1,6 +1,6 @@
 # S.1.0 Learning Application establishes relationship with Sales Agent
 
-This is a process that occurs only once, when a [Learning Application](../services/learning-application.md) provider establishes a commercial relationship with a [Marketplace](../services/marketplace.md). The [Marketplace](../services/marketplace.md) will identify itself and request catalogue information from the [Learning Application](../services/learning-application.md), with the Catlaogue response products can be sold through the [Marketplace](../services/marketplace.md).
+This is a process that occurs only once, when a [Learning Application](../services/learning-application.md) provider establishes a commercial relationship with a [Marketplace](../services/marketplace.md). The [Marketplace](../services/marketplace.md) will identify itself and request catalogue information from the [Learning Application](../services/learning-application.md), with the Catalogue response products can be sold through the [Marketplace](../services/marketplace.md).
 
 ![Process Diagram](../diagrams/process-diagrams-S.1.0.svg)
 
